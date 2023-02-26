@@ -1,7 +1,7 @@
 # Carbon-Conscious
 A frontend website about "Carbon footprint" made using HTML, CSS, Javascript.
 
-!!!Youtube link: https://youtu.be/mvmbXuDS_m8
+!!!Youtube link for the project explanation: https://youtu.be/mvmbXuDS_m8
   
   Description:
 - "Carbon Conscious" is a website to promote awareness about how our actions negatively affect the environment in the form of our Carbon Footprint and ways to reduce it.
